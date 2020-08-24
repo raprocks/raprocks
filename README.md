@@ -33,7 +33,7 @@
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raprocks&layout=compact&hide=html" alt="raprocks" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raprocks&layout=compact&hide=html" alt="raprocks" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raprocks&show_icons=true" alt="raprocks" /></p>
