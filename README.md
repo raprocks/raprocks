@@ -32,11 +32,11 @@
 
 </p>
 
-<p>
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raprocks&layout=compact&hide=html" alt="raprocks" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raprocks&show_icons=true" alt="raprocks" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raprocks&show_icons=true" alt="raprocks" /></p>
 
 <p align="center">
 <a href="https://twitter.com/raprocks9421" target="blank">
