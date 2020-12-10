@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Patil - aka RAP</h1>
 <h3 align="center">A Student and an aspiring Full Stack developer from India.</h3>
 
-- 🔭 I’m currently working on [spotidnldr](https://github.com/raprocks/spotidnldr).
+- 🔭 I’m currently working on [VisualizeIT](https://github.com/raprocks/visualizeit).
 
 - 🌱 I’m currently trying to learn **Go, C, C++, JavaScript , HTML, CSS and much more. I am trying to flap my wings wide 😆.**
 
