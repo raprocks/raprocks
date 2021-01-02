@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **R.A.P. are the initials of my Full Name.**
 
-- ⚡ Another Fun fact **I Code Fully on my phone using Termux.**
+- ⚡ Another Fun fact **I Used to Code Fully on my phone using Termux. Now I Got Acer Nitro 5**
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
