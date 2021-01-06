@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohit Patil - aka RAP</h1>
 <h3 align="center">A Student and an aspiring Full Stack developer from India.</h3>
 
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=shcixv399pe9e6dirp62esm93&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 - 🔭 I’m currently working on [VisualizeIT](https://github.com/raprocks/visualizeit).
 
 - 🌱 I’m currently trying to learn **Go, C, C++, JavaScript , HTML, CSS and much more. I am trying to flap my wings wide 😆.**
@@ -29,7 +31,6 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <img alt="GitHub" width="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img alt="Terminal" width="40" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
-
 </p>
 
 <p align="center">
