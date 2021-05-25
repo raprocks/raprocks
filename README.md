@@ -56,7 +56,7 @@
 <hr />
 
 <details>
-<summary><h3 style="display:inline-block;cursor:pointer;">Languages and Tools:</h3></summary>
+<summary>Languages and Tools</summary>
 <p align="left">
 <a href="https://angular.io" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
