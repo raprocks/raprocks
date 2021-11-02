@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working for [WorkHack](https://workhack.io)
+- 🔭 I’m currently working for [Oviyum Technologies](https://oviyum.com/)
 
 - 🌱 I’m currently learning **Svelte Kit, Angular, React, Vanilla JS, Python, Golang, C, C++, Rust, Adobe Illustrator, Adobe Photoshop, Figma and other technologies and software.**
 
