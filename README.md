@@ -182,6 +182,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=raprocks&show_icons=true&theme=synthwave&locale=en" alt="raprocks" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raprocks&theme=dark" alt="raprocks" /></p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raprocks&label=Profile%20Visits&color=694c94&style=flat" alt="raprocks" /></p>
