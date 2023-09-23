@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit A. Patil <i>aka</i> raprocks</h1>
-<h3 align="center">A Student and an Aspiring Software Developer.</h3>
+<h3 align="center">A Software Developer.</h3>
 
 ---
-
-- 🔭 I’m currently working for [Oviyum Technologies](https://oviyum.com/)
 
 - 🌱 I’m currently learning **Svelte Kit, Angular, React, Vanilla JS, Python, Golang, C, C++, Rust, Adobe Illustrator, Adobe Photoshop, Figma and other technologies and software.**
 
@@ -13,13 +11,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/raprocks?tab=repositories](https://github.com/raprocks?tab=repositories)
 
-- 📝 I regularly write articles on [https://raprocks.github.io/](https://raprocks.github.io/)
+- 📝 I irregularly write articles on [https://raprocks.github.io/](https://raprocks.github.io/)
 
 - 💬 Ask me about **Python, Linux, Web Frontend and Backend, Golang, C, C++ and anything about what I am learning.**
 
-- 📫 connect with me at **rahulhimesh09@gmail.com** or any of my linked socials below.
+- 📫 connect with me at **hello@rohitpatil.me** or any of my linked socials below.
 
-- ⚡ Fun fact **I started coding on my Android Device using Termux, until I got an Acer Nitro 5 in January 2021.**. Don't give yourself excuses about not having equipments to become good.
 <hr />
 
 <h3 align="center">Connect with me over at</h3>
